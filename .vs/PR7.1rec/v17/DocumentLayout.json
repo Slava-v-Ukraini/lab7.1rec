@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\VS code\\PR7.1rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526851F3-B765-4F30-986D-1A56AA7C514F}|PR7.1rec.vcxproj|D:\\VS\\VS code\\PR7.1rec\\PR7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{526851F3-B765-4F30-986D-1A56AA7C514F}|PR7.1rec.vcxproj|solutionrelative:PR7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80BC3C-018A-46C2-9ABE-B95F118ECEFC}|UnitTest1\\UnitTest1.vcxproj|D:\\VS\\VS code\\PR7.1rec\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC80BC3C-018A-46C2-9ABE-B95F118ECEFC}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR7.1rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR7.1rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T15:08:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR7.1rec.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR7.1rec\\PR7.1rec.cpp",
+              "RelativeDocumentMoniker": "PR7.1rec.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR7.1rec\\PR7.1rec.cpp",
+              "RelativeToolTip": "PR7.1rec.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T15:00:11.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
